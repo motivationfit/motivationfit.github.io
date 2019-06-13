@@ -1,6 +1,6 @@
 html, body, a, h1, h2, h3, h4, h5, li, span {
-  font-family: "Amita",sans-serif,"google" !important;
-  font-size: 1.1em;
+  /* font-family: "Amita",sans-serif,"google" !important;
+  font-size: 1.1em; */
   /* font-weight: bold; */
   font-style: normal;
   text-transform: none;
@@ -16,4 +16,7 @@ html, body, a, h1, h2, h3, h4, h5, li, span {
 .menu-content-fit {
   padding-left: 10px;
   padding-top: 20px;
+}
+.single-testimonial {
+  padding: 12px 30px 12px 30px;
 }
