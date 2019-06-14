@@ -37,3 +37,11 @@ html, body, a, h1, h2, h3, h4, h5, li, span {
 .align-items-bottom-center {
   align-items: flex-end !important;
 }
+.img-fitnet {
+  width: 70% !important;
+}
+
+.info-testimony {
+  text-justify: auto;
+  padding-right: 20px; 
+}
